@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>WWDC22】Swift student challenge winner</p>
+  <p>【WWDC22】Swift student challenge winner</p>
 </div>
 
 <div align="center">
